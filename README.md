@@ -121,7 +121,7 @@ Where:
 
 ### Q: Do I have to buy a Linux computer to use this? I don't have time for that!
 ### A: No. You can run Linux and/or the tools we share alongside your existing operating system:
-    
+
 * Windows users can use Windows Subsystem for Linux [WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
 * Mac users can use [Homebrew](https://brew.sh/)
 * The code-base instructions were developed with both beginners and advanced users in mind.
